@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Assanuma</h1>
 <h3 align="center">I'm a full stack Web Dev | ruby on rails</h3>
 
-- 🔭 I’m currently working on my personal project with one more friend [PaleBlue](www.paleblue.is)
+- 🔭 I’m currently working on my personal project [PaleBlue](www.paleblue.is)
+
+- ⭐️ I'm available to work!
 
 - 🌱 I’m currently learning **Solidity**
 
