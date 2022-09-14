@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Assanuma</h1>
 <h3 align="center">I'm a full stack Web Dev | ruby on rails</h3>
 
-- 🔭 I’m currently working on [PaleBlue](www.paleblue.is)
+- 🔭 I’m currently working on my personal project with one more friend [PaleBlue](www.paleblue.is)
 
-- 🌱 I’m currently learning **Solidity and Rust**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/gabrielassanuma](https://troopl.com/gabrielassanuma)
 
@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I wake up everyday at 5:30am**
 
-- I like to gamify stuff
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
