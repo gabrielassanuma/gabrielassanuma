@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Assanuma</h1>
-<h3 align="center">I'm a Full Stack Web Dev | Ruby on rails | Python | Web3</h3>
+<h3 align="center">I'm a Full Stack Web Dev | Ruby on rails</h3>
 
 - ⭐️ I'm available to work
 
