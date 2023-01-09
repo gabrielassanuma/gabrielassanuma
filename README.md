@@ -3,7 +3,7 @@
 
 - ⭐️ I'm available to work
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently working as a Teaching Assistant at Le Wagon.
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/gabrielassanuma](https://troopl.com/gabrielassanuma)
 
