@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Assanuma</h1>
-<h3 align="center">I'm a Full Stack Web Dev | Ruby on rails</h3>
+<h3 align="center">I'm a software engineer</h3>
 
-- ⭐️ I'm available to work
-
-- 🌱 I’m currently working as a Lecture teacher and Teacher assistant at Le Wagon.
-
-- 👨‍💻 All of my projects are available at [https://troopl.com/gabrielassanuma](https://troopl.com/gabrielassanuma)
+- 🌱 I’m currently working @ Sanctu
 
 - 📫 How to reach me **gabriel.assanuma@gmail.com**
 
